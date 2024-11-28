@@ -3,3 +3,5 @@ second
 third - my branch
 4th - my branch
 some hot fix
+feat 1 has been added.
+
